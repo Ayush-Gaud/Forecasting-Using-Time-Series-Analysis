@@ -1,3 +1,3 @@
 # Forecasting-Using-Time-Series-Analysis
 
-This project explores various time series forecasting techniques applied to real-world datasets. It demonstrates end-to-end workflows including data preprocessing, visualization, stationarity checks, model selection, evaluation, and forecasting.
+This project explores various time series forecasting techniques applied to real-world datasets. It demonstrates end-to-end workflows including data preprocessing, visualization, stationarity checks, model selection, evaluation, and forecasting. It then applies classical time series analysis techniques to forecast daily closing prices of Apple stock using business-day frequency data. It explores various statistical modeling approaches, including ARIMA, ARIMAX, and Exponential Smoothing, and evaluates them based on accuracy metrics such as MAPE, MAE, and RMSE.
